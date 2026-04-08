@@ -20,7 +20,7 @@ make install
     - [Dataset preparation](#dataset-preparation)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Visualisation](#blender-add-on)
+- [Blender add-on](#blender-add-on)
     
 ---
 
