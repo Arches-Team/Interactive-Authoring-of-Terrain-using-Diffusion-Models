@@ -1,13 +1,3 @@
----
-title: Terrain-ML
-emoji: ⛰️
-colorFrom: yellow
-colorTo: orange
-sdk: streamlit
-app_file: demo/app.py
-pinned: true
----
-
 # Interactive Authoring of Terrain using Diffusion Models
 
 [Website](https://simonperche.github.io/Interactive-Authoring-of-Terrain-using-Diffusion-Models/) | [Paper](https://hal.science/hal-04324336/document) | [Video](https://www.youtube.com/watch?v=KyN9O9m5HS0) 
