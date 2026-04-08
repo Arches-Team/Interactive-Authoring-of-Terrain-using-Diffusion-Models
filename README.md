@@ -177,12 +177,13 @@ This repository contains a Blender add-on.
 
 ### Installation
 
-1.  Download the required [`sketch-to-terrain` model](https://drive.google.com/file/d/1t9BWJWPUnsETadSkTdSmcrHXPQYka5zK/view?usp=drive_link).
+1.  Download Blender (tested on Blender 4.5.4) and install torch in the python environment of Blender.
+2.  Download the required [`sketch-to-terrain` model](https://drive.google.com/file/d/1t9BWJWPUnsETadSkTdSmcrHXPQYka5zK/view?usp=drive_link).
 and place it in the `models/diffusion` directory.
-2.  Zip the entire project (including the `models` directory) or use ```make blender-addon```.
-3.  In Blender, go to `Edit > Preferences > Add-ons`.
-4.  Click `Install` and select the zipped project file.
-5.  Enable the add-on.
+3.  Zip the entire project (including the `models` directory) or use ```make blender-addon```.
+4.  In Blender, go to `Edit > Preferences > Add-ons`.
+5.  Click `Install` and select the zipped project file.
+6.  Enable the add-on.
 
 ### Included Files
 
