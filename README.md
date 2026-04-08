@@ -1,4 +1,4 @@
-# Vector-based terrain modelling
+# Interactive Authoring of Terrain using Diffusion Models
 
 The website is based on [Nerfies website](https://nerfies.github.io). We thank Keunhong Park for kindly open-sourcing the source code. 
 
