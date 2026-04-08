@@ -20,7 +20,7 @@ make install
     - [Dataset preparation](#dataset-preparation)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Visualisation](#visualisation---blender-add-on)
+- [Visualisation](#blender-add-on)
     
 ---
 
@@ -171,7 +171,7 @@ list_of_images = model(
 print(list_of_images)
 ```
 
-## Visualisation - Blender add-on
+## Blender add-on
 
 This repository contains a Blender add-on.
 
